@@ -110,6 +110,7 @@ print("Server says:", data)
 client_socket.close()
 ```
 OUTPUT:
+
 SERVER:
 <img width="1856" height="241" alt="Screenshot 2026-04-29 104534" src="https://github.com/user-attachments/assets/f10de043-877c-409a-8a6e-606d1f083031" />
 CLIENT:
